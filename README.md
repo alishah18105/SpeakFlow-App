@@ -31,7 +31,7 @@ Welcome to the **SpeechFlow App!** This app is built with **Flutter** and provid
 3. Text can be copied to the clipboard or shared with others using the **share_plus** package
 
 ## Screenshots  
-- **Screen Shot 1** [Click here to view the image](https://github.com/alishah18105/SpeechFlow-App/blob/main/Screenshots/img1.jpeg)  
+- **Screen Shot 1** [Click here to view the image](https://github.com/alishah18105/SpeakFlow-App/blob/main/Screenshots/img1.jpeg)  
 - **Screen Shot 2** [Click here to view the image](https://github.com/alishah18105/SpeechFlow-App/blob/main/Screenshots/img2.jpeg)  
 - **Screen Shot 3** [Click here to view the image](https://github.com/alishah18105/SpeechFlow-App/blob/main/Screenshots/img3.jpeg)  
 - **Screen Shot 4** [Click here to view the image](https://github.com/alishah18105/SpeechFlow-App/blob/main/Screenshots/img4.jpeg)  
