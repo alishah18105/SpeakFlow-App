@@ -1,16 +1,44 @@
-# voice_recognizer
+# SpeechFlow App
 
-A new Flutter project.
+Welcome to the **SpeechFlow App!** This app is built with **Flutter** and provides seamless speech-to-text and text-to-speech functionality in an intuitive and user-friendly interface. The app also includes features for copying and sharing text, making it versatile and accessible for various use cases.
 
-## Getting Started
+## Features  
+- **Speech-to-Text Conversion**  
+  - Converts spoken words into text using the **speech_to_text** package.
+  - Provides fast and accurate transcription for an efficient user experience.  
 
-This project is a starting point for a Flutter application.
+- **Text-to-Speech Conversion**  
+  - Converts written or copied text into speech using the **tts** package  
 
-A few resources to get you started if this is your first Flutter project:
+- **Copy and Share Text**  
+  - Allows users to copy the converted text to the clipboard.
+  - Enables text sharing across various platforms using the **share_plus package**.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technology Stack  
+- **Flutter**: For building the mobile app.
+- **speech_to_text**: For implementing speech-to-text functionality.
+- **tts**: For enabling text-to-speech conversion.
+- **share_plus**: For adding copy and share features.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages Used  
+- **speech_to_text**: Provides the ability to transcribe speech into text.
+- **tts**: Offers robust text-to-speech capabilities.
+- **share_plus**: Facilitates text sharing and clipboard functionalities. 
+
+## How It Works  
+1. The app captures audio input and processes it through the **speech_to_text** package to generate text.
+2. Users can input or edit the text manually and use the **tts** package to hear it spoken aloud.
+3. Text can be copied to the clipboard or shared with others using the **share_plus** package
+
+## Screenshots  
+- **Screen Shot 1** [Click here to view the image](https://github.com/alishah18105/SpeechFlow-App/blob/main/Screenshots/img1.jpeg)  
+- **Screen Shot 2** [Click here to view the image](https://github.com/alishah18105/SpeechFlow-App/blob/main/Screenshots/img2.jpeg)  
+- **Screen Shot 3** [Click here to view the image](https://github.com/alishah18105/SpeechFlow-App/blob/main/Screenshots/img3.jpeg)  
+- **Screen Shot 4** [Click here to view the image](https://github.com/alishah18105/SpeechFlow-App/blob/main/Screenshots/img4.jpeg)  
+
+## Credits  
+- **speech_to_text**: Thanks to the speech_to_text package for enabling efficient speech recognition.
+
+- **tts**: Grateful for the tts package for providing high-quality text-to-speech conversion.
+
+- **share_plus**: Acknowledging the share_plus package for enhancing sharing and clipboard functionalities.
